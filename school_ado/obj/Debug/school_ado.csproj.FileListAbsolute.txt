@@ -1,0 +1,10 @@
+C:\Users\OKAN\source\repos\school_ado\school_ado\obj\Debug\school_ado.csprojAssemblyReference.cache
+C:\Users\OKAN\source\repos\school_ado\school_ado\obj\Debug\school_ado.Form1.resources
+C:\Users\OKAN\source\repos\school_ado\school_ado\obj\Debug\school_ado.Properties.Resources.resources
+C:\Users\OKAN\source\repos\school_ado\school_ado\obj\Debug\school_ado.csproj.GenerateResource.cache
+C:\Users\OKAN\source\repos\school_ado\school_ado\obj\Debug\school_ado.csproj.CoreCompileInputs.cache
+C:\Users\OKAN\source\repos\school_ado\school_ado\bin\Debug\school_ado.exe.config
+C:\Users\OKAN\source\repos\school_ado\school_ado\bin\Debug\school_ado.exe
+C:\Users\OKAN\source\repos\school_ado\school_ado\bin\Debug\school_ado.pdb
+C:\Users\OKAN\source\repos\school_ado\school_ado\obj\Debug\school_ado.exe
+C:\Users\OKAN\source\repos\school_ado\school_ado\obj\Debug\school_ado.pdb
